@@ -10,10 +10,17 @@
         android:layout_marginTop="10dp"
         android:icon="@drawable/soundicon" />
 
+
+
     <item android:title="@string/menu_title_share"
         android:id="@+id/share"
         android:layout_marginTop="10dp"
         android:icon="@drawable/shareimg" />
+
+    <item android:title="Impressum"
+        android:id="@+id/rechtliches"
+        android:layout_marginTop="10dp"
+        android:icon="@drawable/gesetzt" />
 
 
 </menu>

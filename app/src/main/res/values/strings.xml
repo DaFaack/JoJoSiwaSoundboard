@@ -35,6 +35,8 @@
     <!--Permission-->
     <string name="notice_that_app_needs_access_to_settings">The app needs access to your settings</string>
 
+    <string name="rechtliches">This Soundboard wasn\'t produced by JoJo Siwa, but by some of her supporters. If JoJo has an issue with this app, please get in contact with us and we will delete it immediately.\n\n<b>Imprint:</b>\nMica Grünewald\n\n\nmicagrnwld@gmail.com</string>
+
     <!--This is where the sounds are saved if you share or save one-->
     <string name="foldername">jojosoundboard</string>
 
