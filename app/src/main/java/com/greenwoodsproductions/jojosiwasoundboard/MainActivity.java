@@ -76,14 +76,14 @@ public class MainActivity extends AppCompatActivity {
                         AlertDialog.Builder a_builder = new AlertDialog.Builder(MainActivity.this);
                         a_builder.setMessage(R.string.rechtliches)
                                 .setCancelable(true)
-                                .setNegativeButton("Verstanden", new DialogInterface.OnClickListener() {
+                                .setNegativeButton("Ok", new DialogInterface.OnClickListener() {
                                     @Override
                                     public void onClick(DialogInterface dialog, int i) {
                                         dialog.cancel();
                                     }
                                 });
                         AlertDialog alert = a_builder.create();
-                        alert.setTitle("Impressum");
+                        alert.setTitle("Imprint");
                         alert.show();
 
                 }
